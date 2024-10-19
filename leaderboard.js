@@ -1,5 +1,5 @@
 // API URL pointing to the new backend server
-const apiUrl = 'http://localhost:3002/roobet';
+const apiUrl = '/api/roobet';
 
 // Function to update the leaderboard table in HTML
 function updateLeaderboard(leaderboardData) {
